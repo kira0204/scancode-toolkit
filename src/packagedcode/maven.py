@@ -92,46 +92,46 @@ MAVEN2_FIELDS = [
     ('component_parent_version', '/project/parent/version'),
     ('component_packaging', '/project/packaging'),
     ('component_version', '/project/version'),
-    
+
     ('developer_email', '/project/developers/developer/email'),
     ('developer_name', '/project/developers/developer/name'),
     ('developer_organization', '/project/developers/developer/organization'),
-    
+
     ('contributor_email', '/project/contributors/contributor/email'),
     ('contributor_name', '/project/contributors/contributor/name'),
     ('contributor_organization', '/project/contributors/contributor/organization'),
-    
+
     ('distribution_management_site_url', '/project/distributionManagement/site/url'),
     ('distribution_management_repository_url','/project/distributionManagement/repository/url'),
-    
+
     ('license', '/project/licenses/license/name'),
     ('license_comments', '/project/licenses/license/comments'),
     ('license_distribution', '/project/licenses/license/distribution'),
     ('license_name', '/project/licenses/license/name'),
     ('license_url', '/project/licenses/license/url'),
-    
+
     ('organization_name', '/project/organization/name'),
     ('organization_url', '/project/organization/url'),
-    
+
     ('issue_url', '/project/issueManagement/url'),
-    
+
     ('project_name', '/project/name'),
     ('project_description', '/project/description'),
     ('project_inception_year', '/project/inceptionYear'),
     ('project_url', '/project/url'),
-    
+
     ('repository_id', '/project/repositories/repository/id'),
     ('repository_layout', '/project/repositories/repository/layout'),
     ('repository_name', '/project/repositories/repository/name'),
     ('repository_url', '/project/repositories/repository/url'),
-    
+
     ('scm_connection', '/project/scm/connection'),
     ('scm_developer_connection', '/project/scm/developerConnection'),
     ('scm_url', '/project/scm/url'),
-    
+
     ('distribution_management_group_id', '/project/distributionManagement/relocation/groupId'),
     ('model_version', '/project/modelVersion'),
-    
+
     ('dependency', '/project/dependencies/dependency/artifactId'),
     ('dependency_version', '/project/dependencies/dependency/version'),
     ('dependency_scope', '/project/dependencies/dependency/artifactId/scope'),
